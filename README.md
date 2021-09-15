@@ -4,7 +4,7 @@
 ## Thông tin môn học
 - Lớp: **DH18IT82**
 - Học kỳ: **3 (2019-2020)**
-- Giảng viên: **Dương Hữu Thành**
+- Giảng viên: **Nguyễn Thị Phương Trang**
 ## Thông tin sinh viên thực hiện
 
 |STT|MSSV    |Họ tên      			   |
