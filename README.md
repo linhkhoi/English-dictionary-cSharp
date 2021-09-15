@@ -18,7 +18,7 @@
 
 >Đề tài: **Xây dựng ứng dụng từ điển tiếng anh kèm game luyện tập**
 
->## Yêu cầu đồ án
+>## Yêu cầu bài tập lớn
 
 - Xây dựng đồ án bằng **C#**
 - Có thể sử dụng các framework C# có sẵn: **Winform**
